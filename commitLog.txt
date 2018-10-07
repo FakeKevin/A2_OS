@@ -1,0 +1,156 @@
+commit 3f2121b778bf3f7f1c4b1673d726e7631a6479d5
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Sun Oct 7 13:23:19 2018 -0400
+
+    done
+
+commit 9bca402a7d3c534fdef23685ca50871d845e37aa
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Sun Oct 7 13:02:15 2018 -0400
+
+    done
+
+commit cbe278de93a532c67b0b8065f885a7f86e588381
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Sun Oct 7 12:23:07 2018 -0400
+
+    test
+
+commit 8960dc8d608f8f640c66968c2f3352ceab99691d
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Sun Oct 7 11:55:44 2018 -0400
+
+    :D
+
+commit 9c373d011d45de996d5662624a6b0e6859e0b24b
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Sun Oct 7 11:38:40 2018 -0400
+
+    edited
+
+commit 4a8cec45ef38a268d883c112d9812ec73a9d28a7
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Sun Oct 7 11:35:31 2018 -0400
+
+    Edited readme
+
+commit e3cd8a946f479d6f1058681983431ff6aa76a2e1
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Sun Oct 7 11:12:52 2018 -0400
+
+    Edited some code
+
+commit dc69f138a81d0b1329e0495ab1575425cffc51cb
+Author: welshie1 <jhan755@gmail.com>
+Date:   Sun Oct 7 09:05:55 2018 -0400
+
+    Added stuff
+
+commit 02749079858986354cba3bc19dc906288b7e29d4
+Author: welshie1 <jhan755@gmail.com>
+Date:   Sun Oct 7 08:55:46 2018 -0400
+
+    :D
+
+commit b676091487d4c3607521cba6d8bc68f460f22740
+Author: welshie1 <jhan755@gmail.com>
+Date:   Fri Oct 5 17:57:23 2018 -0400
+
+    edited
+
+commit e631ef8ce586fdde7c469361ba41e53c2323e46f
+Author: welshie1 <jhan755@gmail.com>
+Date:   Fri Oct 5 17:55:58 2018 -0400
+
+    Done
+
+commit c260df3074e849dc6a5aee7e63b384855dc8f4fc
+Merge: 779af9d 313c8a9
+Author: welshie1 <jhan755@gmail.com>
+Date:   Tue Sep 25 21:19:57 2018 -0400
+
+    Merge branch 'master' of https://github.com/welshie1/a2
+
+commit 779af9db69b60e293bb51749934067bcc508e0dd
+Author: welshie1 <jhan755@gmail.com>
+Date:   Tue Sep 25 21:18:08 2018 -0400
+
+    Delete all the test files
+
+commit 313c8a9db0439b36c110a4b8749a0ef2b69d7ee2
+Author: Jason Han <36772195+welshie1@users.noreply.github.com>
+Date:   Tue Sep 25 21:16:16 2018 -0400
+
+    Delete ATestFile
+
+commit e4e5cac303e77323b1e7c83f9a91f271f4ab5cff
+Author: Jason Han <36772195+welshie1@users.noreply.github.com>
+Date:   Tue Sep 25 20:59:04 2018 -0400
+
+    Update testFile2
+
+commit 4b1b9fdbf89b195fa2d84245e79cf21854d7c749
+Author: Kevin <kevinjee05@hotmail.com>
+Date:   Tue Sep 25 19:58:56 2018 -0400
+
+    Hello World
+
+commit b467b75bf24ea893fc64db26bc0ebe193d559d48
+Author: welshie1 <jhan755@gmail.com>
+Date:   Mon Sep 24 16:23:38 2018 -0400
+
+    testfile 5 added
+
+commit a5422c59e5da2634c9a943f6d5d472a13a71e69e
+Author: Jason Han <36772195+welshie1@users.noreply.github.com>
+Date:   Mon Sep 24 16:16:56 2018 -0400
+
+    Create testFile4
+
+commit 33750242283c2e41cb109b56c41c443c88637de4
+Author: welshie1 <jhan755@gmail.com>
+Date:   Mon Sep 24 16:15:12 2018 -0400
+
+    Test file 3 now
+
+commit 28c13275ba9578bba412b31e42330a464b4664ac
+Merge: 3ebaa7d a0b9522
+Author: Jason Han <36772195+welshie1@users.noreply.github.com>
+Date:   Mon Sep 24 14:11:58 2018 -0400
+
+    Merge pull request #2 from welshie1/branch1
+    
+    I modified test file
+
+commit a0b9522056e75470767c7b014b008b58770c22ed
+Author: welshie1 <jhan755@gmail.com>
+Date:   Mon Sep 24 14:10:27 2018 -0400
+
+    I modified test file
+
+commit 3ebaa7dcf614505567586653e1509ca303f1f494
+Merge: 56cede0 006b1fa
+Author: Jason Han <36772195+welshie1@users.noreply.github.com>
+Date:   Mon Sep 24 14:08:33 2018 -0400
+
+    Merge pull request #1 from welshie1/branch1
+    
+    Hey here a new test file
+
+commit 006b1faf9be2683bf5dbe94264c79eb89609b0f4
+Author: welshie1 <jhan755@gmail.com>
+Date:   Mon Sep 24 14:05:35 2018 -0400
+
+    Hey here a new test file
+
+commit 56cede06b9648e7c2789bcbbc750ff53dd256888
+Author: welshie1 <jhan755@gmail.com>
+Date:   Mon Sep 24 14:00:32 2018 -0400
+
+    Committing testFile
+
+commit 5f12fb4417c0103678e6384a4514413bc71ca140
+Author: Jason Han <36772195+welshie1@users.noreply.github.com>
+Date:   Wed Sep 19 09:58:47 2018 -0400
+
+    Initial commit
