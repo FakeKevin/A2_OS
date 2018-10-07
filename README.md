@@ -1,6 +1,7 @@
-# OS - a2
+# OS - A2
 
 Operating Systems Design and Systems Programming
+
 Assignment #2 - SYST 44288
 
 Git bash was used to push the code to this repository.

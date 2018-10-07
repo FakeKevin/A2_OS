@@ -1,7 +1,7 @@
 /*
 Assignment #2 - Question 2
 Date Due: Oct. 8th, 2018
-By: Jason Han & Kevin Jee
+By: Jason Han & Keun Young Jee
 Course: SYST 44288
 
 Description:
