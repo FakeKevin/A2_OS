@@ -1,3 +1,5 @@
 # a2
 
-Done, will hand in on Sunday.
+Assignment #2 - SYST 44288
+
+Git bash was used to push the code to this repository.
