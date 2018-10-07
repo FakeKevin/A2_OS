@@ -1,7 +1,7 @@
 /*
 Assignment #2 - Question 1
 Date Due: Oct. 8th, 2018
-By: Jason Han & Kevin Jee
+By: Jason Han & Keun Young Jee
 Course: SYST 44288
 
 Description:
@@ -36,7 +36,9 @@ public class EchoServer {
         try
             {
                 //Create the Server Socket
-                ServerSocket sock = new ServerSocket(6013);
+		private int port = 6013;
+                ServerSocket sock = new ServerSocket(port);
+		System.out.println("Starting server connection on port: " + port);
                 while(true)
                     {
                         //Create a client that will accept socket connections
