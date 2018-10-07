@@ -1,7 +1,7 @@
 /*
 Assignment #2 - Question 1
 Date Due: Oct. 8th, 2018
-By: Jason Han & Kevin Jee
+By: Jason Han & Keun Young Jee
 Course: SYST 44288
 
 Description:
@@ -36,7 +36,8 @@ public class EchoClient {
         try
             {
                 //Create the Socket that will connect to the server
-                Socket sock = new Socket("127.0.0.1", 6013);
+                int port = 6013
+		Socket sock = new Socket("127.0.0.1", port);
                 int done = 0;
                 while(done == 0)
                     {
