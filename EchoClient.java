@@ -41,11 +41,13 @@ public class EchoClient {
                 while(done == 0)
                     {
                         System.out.println("Connected to localhost.");
-                        //Get the clients input stream
+                        //Get the server's input stream
                         InputStream in = sock.getInputStream();
-                        //Create a buffer that will read the input stream
+                        //Create a buffer that will read the input stream from the server
                         BufferedReader buffIn = new BufferedReader(new InputStreamReader(in));
+						//Get the output stream of the server to send the data to
                         PrintWriter pout = new PrintWriter(sock.getOutputStream(), true);
+						//We will send our own input into our own stream reader
                         BufferedReader in2 = new BufferedReader(new InputStreamReader(System.in));
                         String line = in2.readLine();
 						//While user has not entered in ".", read line, send input

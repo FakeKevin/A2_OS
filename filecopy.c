@@ -1,5 +1,5 @@
 /*
-Assignment 2 - Question 2
+Assignment #2 - Question 2
 Date Due: Oct. 8th, 2018
 By: Jason Han & Kevin Jee
 Course: SYST 44288
