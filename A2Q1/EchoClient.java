@@ -36,7 +36,7 @@ public class EchoClient {
         try
             {
                 //Create the Socket that will connect to the server
-                int port = 6013
+                int port = 6013;
 		Socket sock = new Socket("127.0.0.1", port);
                 int done = 0;
                 while(done == 0)
