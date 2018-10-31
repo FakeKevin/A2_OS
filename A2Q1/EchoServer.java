@@ -36,7 +36,7 @@ public class EchoServer {
         try
             {
                 //Create the Server Socket
-		private int port = 6013;
+		int port = 6013;
                 ServerSocket sock = new ServerSocket(port);
 		System.out.println("Starting server connection on port: " + port);
                 while(true)
